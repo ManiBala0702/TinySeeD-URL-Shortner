@@ -257,12 +257,5 @@ video link :
 
 ---
 
-## GitHub Repository
-
-Add your repository link here:
-
-[GITHUB_REPOSITORY_LINK]
-
----
 
 This project is a part of a hackathon run by https://katomaran.com
